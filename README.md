@@ -7,10 +7,10 @@
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=mecdavi&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=amdress&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="52.4%"  src="https://github-readme-stats.vercel.app/api?username=mecdavi&show_icons=true" />
+  <img width="52.4%"  src="https://github-readme-stats.vercel.app/api?username=amdress&show_icons=true" />
 </picture>
 <picture >
   <img style="display:inline" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecdavi&bg_color=181716&text_color=fff5b6&icon_color=e47025&layout=compact" />
