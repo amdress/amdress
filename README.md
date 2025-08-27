@@ -13,7 +13,7 @@
   <img width="52.4%"  src="https://github-readme-stats.vercel.app/api?username=amdress&show_icons=true" />
 </picture>
 <picture >
-  <img style="display:inline" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mecdavi&bg_color=181716&text_color=fff5b6&icon_color=e47025&layout=compact" />
+  <img style="display:inline" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdress&bg_color=181716&text_color=fff5b6&icon_color=e47025&layout=compact" />
 </picture>
 <br></br>
 <p >
