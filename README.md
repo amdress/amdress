@@ -13,17 +13,14 @@ I transitioned into web and mobile development focusing on **Laravel**, **NestJS
 **Nexo** — an attendance & workforce management app for day-labor teams (React Native + SQLite), currently in active development. Layered architecture (repository/service pattern), versioned migrations, offline-first data layer.
 🔗 *(link coming soon as the repo goes public)*
 
-**saudeFacilProject** — Angular + Ionic + Capacitor app for managing medical appointments.
-🔗 [github.com/amdress/saudeFacilProject](https://github.com/amdress/saudeFacilProject)
-
 ---
 
 ## 💼 Professional collaborations
 
 These were freelance/collaborative projects built for real use cases. The code is proprietary and not publicly hosted, but the ideas behind them are shaping personal open-source projects I plan to build after Nexo:
 
-- **Room rental management platform** — Laravel, MySQL, REST API
-- **Real-time driver ↔ mechanic connection platform** — Angular, NestJS, MongoDB
+- **Room rental management platform** — Laravel, MySQL, REST API, React-native
+- **Real-time driver ↔ mechanic connection platform** — Laravel, MySQL, REST API, React-native
 
 ---
 
@@ -32,7 +29,7 @@ These were freelance/collaborative projects built for real use cases. The code i
 **Frontend & Mobile:** Angular · Vue.js · React · React Native · Ionic · TypeScript
 **Backend:** Laravel · NestJS · Node.js · PHP
 **Databases:** MySQL · PostgreSQL · MongoDB · SQLite
-**Tools & Practices:** Git · Docker · Linux · Insomnia · Agile/Scrum · QA basics
+**Tools & Practices:** Git · Docker basics · linux basics  · Agile/Scrum · QA basics
 
 <p align="left">
   <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel" />&nbsp;
